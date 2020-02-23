@@ -5,11 +5,11 @@ This projects implement several classic and popular games in Python, using pytho
 Currently, 4 games are already made in this project, listing below:
 
 * [2048](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/2048)
-* [Flappy Bird](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/FlappyBird)
-* [Minesweeper](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/Minesweeper)
-* [Pong](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/Pong)
+* [Flappy Bird](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/FlappyBird) :baby_chick:
+* [Minesweeper](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/Minesweeper) :bomb:
+* [Pong](https://github.com/MaxHsu88/Mini-Games-with-Pygame/tree/master/Pong) :white_circle:
 
-## Game scene
+## Game scene 
 
 <figure class="half">
     <a href="source/2048.png"><img src="source/2048.png" width = "300" height = "300" align=center /></a>
@@ -23,11 +23,11 @@ Currently, 4 games are already made in this project, listing below:
 
 ## How to run this project ?
 
-### Install pygame
+### Install pygame :snake:
 
 Open your terminal console and enter `pip install pygame` to finish install.
 
-## Acknowledgments
+## Acknowledgments :bulb:
 
 * [Snakegame Tutorial (pygame)](https://www.youtube.com/watch?v=V_f07t570pA) - You can start with this tutorial to get
 an brief notion on how pygame actually works.
