@@ -12,13 +12,13 @@ Currently, 4 games are already made in this project, listing below:
 ## Game scene 
 
 <figure class="half">
-    <a href="source/2048.png"><img src="source/2048.png" width = "300" height = "300" align=center /></a>
-    <a href="source/minesweeper.png"><img src="source/minesweeper.png" width = "300" height = "300" align=center /></a>
+    <a href="source/2048.png"><img src="source/2048.gif" width = "300" height = "300" align=center /></a>
+    <a href="source/minesweeper.png"><img src="source/minesweeper.gif" width = "300" height = "300" align=center /></a>
 </figure>
 
 <figure class="half">
-    <a href="source/flappybird.png"><img src="source/flappybird.png" width = "300" height = "400" align=center /></a>
-    <a href="source/pong.png"><img src="source/pong.png" width = "350" height = "250" align=center /></a>
+    <a href="source/flappybird.png"><img src="source/flappybird.gif" width = "300" height = "400" align=center /></a>
+    <a href="source/pong.png"><img src="source/pong.gif" width = "350" height = "250" align=center /></a>
 </figure>
 
 ## How to run this project ?
